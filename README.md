@@ -1,4 +1,3 @@
-**My first ALX project**
+**here we are**
 
-_So happy to be part of the journey_
-
+First project
